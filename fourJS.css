@@ -1,0 +1,35 @@
+body {
+    background: #cccccc url("https://i.pinimg.com/1200x/88/49/08/88490864d77649ff953652f6182057dd.jpg") no-repeat center center fixed;
+    background-size: cover;
+}
+
+.button3 {
+  border: 2px solid #f44336;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button3:hover {
+  background-color: #f44336 !important;
+  color: white !important;
+}
+
+.button4 {
+  border: 2px solid rgb(110, 61, 61);
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button4:hover {
+  background-color:rgb(110, 61, 61)!important;
+  color: white !important;
+}
+
+.button5:hover {
+  background-color: rgb(215, 156, 156)!important;
+  color: white !important;
+}
+
+
+
+ 

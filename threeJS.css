@@ -1,0 +1,18 @@
+.button.transparent{
+ background: none;
+  border: none;
+  color: inherit;  
+  font: inherit; 
+  padding: 0;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.button.transparent:hover {
+  text-decoration: none;
+}
+
+body {
+    background: #cccccc url("https://i.pinimg.com/1200x/6a/a5/f6/6aa5f6a6e465ada5763472ddf3f2318d.jpg") no-repeat center center fixed;
+    background-size: cover;
+}

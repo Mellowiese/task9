@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(185, 52, 56);
+    background: #cccccc url("https://i.pinimg.com/736x/8a/47/86/8a4786e25e722bed8a02d97877ef3fd3.jpg") no-repeat center center fixed;
+    background-size: cover;
+}
+
+.button3 {
+  border: 2px solid #f44336;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button3:hover {
+  background-color: #f44336 !important;
+  color: white !important;
+}
